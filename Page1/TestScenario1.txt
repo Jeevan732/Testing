@@ -1,5 +1,6 @@
 Changed in Master
 Chnanged in Kotrikes
 changed in feature2
-Now we are in Feature1s
+Checking for stashing
+new content
 
